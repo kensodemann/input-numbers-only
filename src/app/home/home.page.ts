@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  ionInputValue: string;
+  inputValue: string;
 
   constructor() {}
-
 }
