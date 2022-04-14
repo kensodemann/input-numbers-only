@@ -1,0 +1,7 @@
+{
+  "name": "input-numbers-only",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
